@@ -1,5 +1,29 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+### Pulling Repo
+
+# …or create a new repository on the command line
+    echo "# blackshield_momintor" >> README.md
+
+    git init
+    
+    git add README.md
+
+    git commit -m "first commit"
+
+    git branch -M main
+
+    git remote add origin https://github.com/Spirovanni/blackshield_momintor.git
+
+    git push -u origin main
+## …or push an existing repository from the command line
+
+    git remote add origin https://github.com/Spirovanni/blackshield_momintor.git
+
+    git branch -M main
+
+    git push -u origin main
+
 ## Getting Started
 
 First, run the development server:
